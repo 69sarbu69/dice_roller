@@ -1,0 +1,48 @@
+body
+{
+    background-color:darkgrey;
+}
+
+
+h1
+{
+    font-family: 'Source Code Pro', monospace;
+    font-size: 8rem;
+    color: green;
+}
+
+.Headline
+{
+    position: absolute;
+    top:100px;
+    left:555px;
+}
+
+.Player1
+{
+    position: absolute;
+    top: 400px;
+    font-family: 'Source Code Pro', monospace;
+    color: yellow;
+
+}
+
+.Player2
+{
+position: absolute;
+top:400px;
+right:100px;
+font-family: 'Source Code Pro', monospace;
+color:yellow;
+}
+
+.img1
+{
+    height: 150px;
+}
+
+.img2
+{
+    height: 150px;
+}
+
